@@ -12,17 +12,17 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
 
 <div align="center">
 
-[<img src="assets/1-kyu.png" width="100">](1kyu/Readme.md)&nbsp;&nbsp;&nbsp;
-[<img src="assets/2-kyu.png" width="100">](2kyu/Readme.md)&nbsp;&nbsp;&nbsp;
-[<img src="assets/3-kyu.png" width="100">](3kyu/Readme.md)&nbsp;&nbsp;&nbsp;
-[<img src="assets/4-kyu.png" width="100">](4kyu/Readme.md)&nbsp;&nbsp;&nbsp;
+[<img src="assets/1-kyu.png" width="100">](1kyu)&nbsp;&nbsp;&nbsp;
+[<img src="assets/2-kyu.png" width="100">](2kyu)&nbsp;&nbsp;&nbsp;
+[<img src="assets/3-kyu.png" width="100">](3kyu)&nbsp;&nbsp;&nbsp;
+[<img src="assets/4-kyu.png" width="100">](4kyu)&nbsp;&nbsp;&nbsp;
 
 <br>
 
-[<img src="assets/5-kyu.png" width="100">](5kyu/Readme.md)&nbsp;&nbsp;&nbsp;
-[<img src="assets/6-kyu.png" width="100">](6kyu/Readme.md)&nbsp;&nbsp;&nbsp;
-[<img src="assets/7-kyu.png" width="100">](7kyu/Readme.md)&nbsp;&nbsp;&nbsp;
-[<img src="assets/8-kyu.png" width="100">](8kyu/Readme.md)&nbsp;&nbsp;&nbsp;
+[<img src="assets/5-kyu.png" width="100">](5kyu)&nbsp;&nbsp;&nbsp;
+[<img src="assets/6-kyu.png" width="100">](6kyu)&nbsp;&nbsp;&nbsp;
+[<img src="assets/7-kyu.png" width="100">](7kyu)&nbsp;&nbsp;&nbsp;
+[<img src="assets/8-kyu.png" width="100">](8kyu)&nbsp;&nbsp;&nbsp;
 
 </div>
 

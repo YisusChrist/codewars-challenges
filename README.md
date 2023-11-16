@@ -9,7 +9,9 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
 Welcome to my CodeWars challenges repository! Here you can find solutions to various programming challenges from CodeWars, organized by difficulty level.
 
 <div align="center">
-  <img src="https://www.codewars.com/users/YisusChrist/badges/large">
+  <a href="https://www.codewars.com/users/YisusChrist">
+    <img src="https://www.codewars.com/users/YisusChrist/badges/large">
+  </a>
 </div>
 
 ## Difficulty Levels:

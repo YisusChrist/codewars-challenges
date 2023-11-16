@@ -4,8 +4,6 @@
   <img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/63c96f663436595d79a62d43_codewars-og-image.png">
 </div>
 
-Welcome to my CodeWars challenges repository! Here you can find solutions to various programming challenges from CodeWars.
-
 Welcome to my CodeWars challenges repository! Here you can find solutions to various programming challenges from CodeWars, organized by difficulty level.
 
 <div align="center">
@@ -13,6 +11,21 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
     <img src="https://www.codewars.com/users/YisusChrist/badges/large">
   </a>
 </div>
+
+<details>
+<summary>Table of Contents</summary>
+
+- [CodeWars Challenges](#codewars-challenges)
+  - [About CodeWars](#about-codewars)
+  - [Difficulty Levels:](#difficulty-levels)
+  - [Katas summary](#katas-summary)
+  - [How to Use](#how-to-use)
+
+</details>
+
+## About CodeWars
+
+CodeWars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
 
 ## Difficulty Levels:
 
@@ -31,6 +44,10 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
 [<img src="assets/8-kyu.png" width="100">](8kyu)&nbsp;&nbsp;&nbsp;
 
 </div>
+
+## Katas summary
+
+...
 
 ## How to Use
 

@@ -1,8 +1,12 @@
 # CodeWars Challenges
 
 <div align="center">
-  <img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/63c96f663436595d79a62d43_codewars-og-image.png">
+  <a href="https://www.codewars.com">
+    <img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/63c96f663436595d79a62d43_codewars-og-image.png">
+  </a>
 </div>
+
+<br>
 
 Welcome to my CodeWars challenges repository! Here you can find solutions to various programming challenges from CodeWars, organized by difficulty level.
 
@@ -11,6 +15,8 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
     <img src="https://www.codewars.com/users/YisusChrist/badges/large">
   </a>
 </div>
+
+<br>
 
 <details>
 <summary>Table of Contents</summary>

@@ -23,7 +23,7 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
 
 - [CodeWars Challenges](#codewars-challenges)
   - [About CodeWars](#about-codewars)
-  - [Difficulty Levels:](#difficulty-levels)
+  - [Difficulty Levels](#difficulty-levels)
   - [Katas summary](#katas-summary)
   - [How to Use](#how-to-use)
 
@@ -33,7 +33,7 @@ Welcome to my CodeWars challenges repository! Here you can find solutions to var
 
 CodeWars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
 
-## Difficulty Levels:
+## Difficulty Levels
 
 <div align="center">
 
